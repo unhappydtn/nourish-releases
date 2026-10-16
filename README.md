@@ -35,3 +35,6 @@ Nothing is uploaded. When you scan a barcode, only that number is looked up in O
   guidance, not medical advice.
 - This repository holds the released app only. Every version and its notes are under
   [Releases](https://github.com/unhappydtn/nourish-releases/releases).
+
+
+##Current .dmg is not working. Fix is on the way
