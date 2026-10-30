@@ -11,7 +11,7 @@ Plan a week of food and watch every nutrient fill up: protein, vitamins, mineral
 measured against goals made for you (age, body, activity, and your own goals such as losing fat or a health focus).
 For **Mac** and **Windows**: the same app, the same food database, the same version.
 
-https://github.com/user-attachments/assets/38567889-a42e-4bb4-b732-197a46b64b8f
+https://github.com/user-attachments/assets/87849330-06f1-4c15-b7ae-7b188bf61b94
 
 - 13,500+ foods from USDA FoodData Central, all included in the app: no account, works offline
 - Daily bars for 35+ nutrients, with safe upper limits
