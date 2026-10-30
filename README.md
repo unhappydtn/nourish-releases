@@ -9,7 +9,6 @@
 
 Plan a week of food and watch every nutrient fill up: protein, vitamins, minerals and more,
 measured against goals made for you (age, body, activity, and your own goals such as losing fat or a health focus).
-For **Mac** and **Windows**: the same app, the same food database, the same version.
 
 https://github.com/user-attachments/assets/1edbc950-5cd3-4592-86d2-eccede90566c
 
